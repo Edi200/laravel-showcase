@@ -1,4 +1,4 @@
-# Laravel Showcase
+# Delivery Platform Showcase
 
 A collection of production code samples extracted from a real-world Laravel 12 project — a multi-vendor food delivery platform built with Laravel 12, Vue 3, Inertia.js, and Filament v5.
 
